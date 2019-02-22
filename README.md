@@ -1,1 +1,1 @@
-# RL_NoisyImageClassification
+# RL_ImageClassification
